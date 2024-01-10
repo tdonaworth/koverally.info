@@ -16,11 +16,9 @@ draft = false
 | Transmission | 6-speed                              |
 | Clutch       | Oil Bath, Multi-disc, Cable-actuated |
 | Starter      | Electric                             |
-| Max Torque   | 29.5 ft-lbs @ 7000rpm                |
 | Max Speed    | 105.6mph                             |
 
-- 51 hp
-- 8 gallons of fuel
+---
 
 | Spec        | 450 Rally - High       | 450 Rally - Low        | 450 Rally Pro        |
 | ----------- | ---------------------- | ---------------------- | -------------------- |

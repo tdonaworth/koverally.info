@@ -2,6 +2,7 @@
 title = 'Model Specifications'
 date = 2024-01-08T21:07:41-06:00
 draft = false
+weight = 1
 +++
 
 #### Shared Specs

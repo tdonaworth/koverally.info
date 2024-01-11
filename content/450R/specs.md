@@ -1,5 +1,5 @@
 +++
-title = 'Models & Differences'
+title = 'Model Specifications'
 date = 2024-01-08T21:07:41-06:00
 draft = false
 +++
@@ -20,8 +20,6 @@ All first generation variants share these specs.
 | Starter      | Electric                             |
 | Max Speed    | 105.6mph                             |
 
----
-
 | Chassis          |                                                                            |
 | ---------------- | -------------------------------------------------------------------------- |
 | Frame Type       | Steel Perimeter                                                            |
@@ -37,6 +35,10 @@ All first generation variants share these specs.
 | Estimated Range  | 300+ miles                                                                 |
 | Wheelbase        | 58.7"                                                                      |
 | Dry Weight       | 319.7 pounds                                                               |
+
+---
+
+#### Differences
 
 |                  | 450 Rally - High       | 450 Rally - Low        | 450 Rally Pro         |
 | ---------------- | ---------------------- | ---------------------- | --------------------- |

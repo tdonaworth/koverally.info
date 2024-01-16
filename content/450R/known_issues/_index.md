@@ -9,6 +9,8 @@ draft = false
 {{< button relref="/450R/mods/fuel_caps.md" >}}Fuel Tank Pressure{{< /button>}}
 
 - Posts in airbox air filter frame
-- Radiator cap
+  - JB Weld to prevent them from spinning freely
+- Coolant Overflow reservoir cap
 - Wheel/Tire Balance
+  - Front tire comes horribly unbalanced
 - Inaccurate fuel gauge

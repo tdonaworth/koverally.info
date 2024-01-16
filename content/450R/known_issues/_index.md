@@ -11,3 +11,4 @@ draft = false
 - Posts in airbox air filter frame
 - Radiator cap
 - Wheel/Tire Balance
+- Inaccurate fuel gauge

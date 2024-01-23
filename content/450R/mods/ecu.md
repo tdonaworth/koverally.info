@@ -4,4 +4,6 @@ date = 2024-01-09T21:46:38-06:00
 draft = false
 +++
 
-Reserved for info on ECU flashing and the "PRO" ECU+Exhaust.
+The "Pro" model or "race" ECU is available directly from KoveUSA or Uncle Wang
+
+Joe Henner and team have been working on ECU flashes. More to come.

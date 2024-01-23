@@ -6,4 +6,6 @@ draft = false
 
 Slip-on options.
 
-Full system options.
+Full system options:
+
+- Full Titanium Race Exhaust available through your dealer, directly from KoveUSA, or through Uncle Wang's Shop.

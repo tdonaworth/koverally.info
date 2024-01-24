@@ -17,3 +17,6 @@ If you choose to branch out, the KTM 450/690 RFR filter should work fine.
 
 ![Air Filter Comparison](/img/450R_air_filter_compare.jpg)
 LtoR - stock, twin air, eBay, funnel, xl filter skin. (grommets appropriated from stock).
+
+- First view of the EURO 5 airbox assembly:
+- ![image](https://github.com/flamingm0e/koverally.info/assets/157621696/a6c454c1-9a47-4f39-a4e9-f4057d4e0c5d)

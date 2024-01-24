@@ -16,3 +16,5 @@ draft = false
 - Inaccurate fuel gauge
 - Non-Pro model front turn signals interfere with removing the front fairing quickly.
   - Remove and install waterproof connectors
+- Oil cooler upper right banjo leaking
+  - Check it is tight on assembling the bike

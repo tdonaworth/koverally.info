@@ -7,4 +7,4 @@ draft = false
 Sprocket configuration options:
 
 - 52T Rear sprocket (requires 118 chain links)
-- 51T Rear sprocket (stock chain should work)
+- 51T Rear sprocket (stock chain works) Any sprocket for 2012 - 2019 KTM should work (SUPERSPROX STEALTH REAR SPROCKET RST-990:51 for example)

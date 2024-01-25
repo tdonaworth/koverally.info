@@ -5,6 +5,6 @@ draft = false
 +++
 
 - [Advanced Flywheel Key](https://www.kovemotousa.com/store/p/advanced-flywheel-key-450-rally)
-- How to video of how to check engine oil level (from [Joe Henner](https://www.facebook.com/groups/1137977753521359/user/100001246029949/) of Kove Moto USA ):
+- How to video checking oil level (from [Joe Henner](https://www.facebook.com/groups/1137977753521359/user/100001246029949/) of Kove Moto USA ):
 
 {{< vimeo 862278791 >}}

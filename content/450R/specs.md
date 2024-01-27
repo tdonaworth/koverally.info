@@ -5,7 +5,7 @@ draft = false
 weight = 1
 +++
 
-#### Shared Specs
+### Shared Specs
 
 All first generation variants share these specs.
 
@@ -39,7 +39,7 @@ All first generation variants share these specs.
 
 ---
 
-#### Differences
+### Differences
 
 |                  | 450 Rally - High       | 450 Rally - Low        | 450 Rally Pro         |
 | ---------------- | ---------------------- | ---------------------- | --------------------- |
